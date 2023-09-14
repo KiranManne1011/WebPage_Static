@@ -1,0 +1,29 @@
+.Backcontainer{
+    margin: 0px;
+    background-image: url("https://wallpapers.com/images/hd/summer-beach-rocks-x6wdm7wbgr13yab5.jpg");
+height:100vh ;
+background-size: cover;
+}
+
+.Tour{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    align-items: center;
+}
+.MainHead{
+    font-family: "Roboto";
+
+}
+.para1{
+    font-family: "Roboto";
+}
+button{
+    width: 140px;
+    height: 40px;
+    border-width: 0px;
+    border-radius: 20px;
+
+}

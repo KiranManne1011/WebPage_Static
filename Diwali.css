@@ -1,0 +1,81 @@
+
+.main1{
+    background-image: url("https://t4.ftcdn.net/jpg/05/78/52/25/360_F_578522583_5IHu98Qn6AL81yPNlyO6SQZMSa7Sy3fH.jpg");
+    background-size: cover;
+    height: 30vh;
+    background-position:0cqb;
+}
+.head1{
+    font-size: 80px;
+    font-family:"Copperplate Gothic Light";
+    color: white;
+    padding: 45px;
+}
+.bottom{
+    background-color: rgb(64, 142, 149);
+    height: 100vh;
+
+}
+.ball{
+    height: 20vh;
+    width: 20vh;
+    padding:20px;
+}
+.baloon{
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 200px;
+    height: 30vh;
+    width: 28vh;
+    background-color: rgb(217, 255, 196);
+    border-radius: 40px;
+}
+.bal{
+    font-size: 60px;
+}
+.para1{
+    font-size: 25px;
+}
+.lamp{
+        margin-top: 40px;
+        margin-right: 170px;
+        text-align: center;
+        margin-left: 200px;
+       height: 30vh;
+    width: 28vh;
+        border-radius: 40px;
+        background-color: rgb(72, 231, 255);
+}
+button{
+    color: rgb(27, 72, 57);
+    height: 7vh;
+    width: 20vh;
+    border-radius: 2vh;
+    padding-top: 20px;
+    margin-top: 100px;
+    font-size: 38px;
+    padding: 10px;
+    background-color: rgb(38, 250, 215);
+    
+}
+.Sparkle{
+    margin-top: 40px;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 200px;
+    height: 30vh;
+    width: 29vh;
+    background-color: rgb(206, 105, 127);
+    border-radius: 40px;
+}
+.Crackers{
+    margin-top: 40px;
+    margin-right: 170px;
+    margin-left: 200;
+    text-align: center;
+    margin-left: 200px;
+    height: 30vh;
+    width: 28vh;
+    background-color: rgb(224, 235, 77);
+    border-radius: 40px;
+}

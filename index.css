@@ -1,0 +1,53 @@
+*{
+    text-align: center;
+background-size: cover;
+}
+body{
+    width: auto;
+    height: auto;
+    margin: 0px;
+    overflow-y: none;
+}
+.Container{
+    background-image: url('https://images.pexels.com/photos/786220/pexels-photo-786220.jpeg');
+    text-align: center;
+    height: 100vh;
+    background-size:cover;
+}
+.Heading{
+    font-size: auto;
+    text-decoration: underline;
+    color: aqua;
+    font-style: italic;
+    font-family: "Roboto";
+}
+p{  
+    text-decoration: overline;
+    font-size: 34px;
+    font-style: italic;
+}
+.para{
+    text-decoration:line-through red;  
+}
+.Pic{
+    height: 100px;
+    width: 100px;
+}
+.Butt{
+   border: solid rgba(49, 0, 128, 0.705) 2px;
+   border-radius: 8px;
+   background-color: cadetblue;
+   color: rgb(111, 0, 255);
+    cursor: pointer;
+width: 95px;
+height: 30px;
+font-size: 15px;
+border-style: dotted;
+border-block-start-color: brown;
+border-block-end-color: blue;
+border-block-start-width:3.5px;
+
+}
+.BUT{
+    text-align: left;
+}

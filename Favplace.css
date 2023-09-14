@@ -1,0 +1,40 @@
+.main{
+    background-image: url("https://images.unsplash.com/photo-1464925257126-6450e871c667?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80");
+    height:100vh ;
+background-size: cover;
+}
+
+.img{
+    height: 20vh;
+    width: 20vh;
+    border-radius: 10px;
+}
+
+.Second{
+    background-image: url("https://www.robertharding.com/watermark.php?type=preview&im=RF/RH_RF/HORIZONTAL/832-397728");
+    border-radius: 12px;
+    padding: 16px;
+    height: fit-content;
+    color: rgb(12, 24, 20);
+    background-size: cover;
+    background-position: 0cqb;
+    
+}
+.Head{
+    color: black;
+    font-family: "Roboto";
+    font-style: solid;
+    font-weight: 200;
+    
+}
+.Fav{
+    color: black;
+    font-family: "Roboto";
+    font-style: solid;
+    font-weight: 200;
+}
+
+button{
+    color: blue;
+    padding: 6px;
+}

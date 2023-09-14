@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: roboto;
+    color: white;
+
+}
+.Para1{
+    text-align: center;
+    font-size: 50px;
+    font-family: roboto;
+    color: white; 
+}
+.Para2{
+    text-align: left;
+    font-size: 25px;
+    font-family: roboto;
+    color: white;   
+}
+h2{
+    text-align: left;
+    font-size: 40px;
+    font-family: roboto;
+    color: white;
+
+}
+button{
+    background-color: orange;
+    height: 45px;
+    width: 90px;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    cursor: pointer;
+}
+.Para3{
+    font-size: 20px;
+    font-family: roboto;
+    color: white;
+    text-decoration: underline;
+}
+.card{
+    background-image: url("https://trumpwallpapers.com/wp-content/uploads/Book-Wallpaper-11-1600-x-900.jpg");
+    background-size: cover;
+    height: 100vh;
+}
